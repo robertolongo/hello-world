@@ -1,8 +1,7 @@
 # hello-world
 Hello world repo
 
-Test Table:
 First Header | Second Header
 ------------ | -------------
-cell 1 | cell 2
-test content | second column
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
